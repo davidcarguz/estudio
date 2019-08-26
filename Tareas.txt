@@ -1,0 +1,3 @@
+1. estudio local
+2. estudio remoto
+3. UI
